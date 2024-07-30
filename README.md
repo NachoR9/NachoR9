@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif)
-## Welcome to my Github Profile!
-## Hi there, my name is Nacho 👋<br><br>   
+
+## Hi there, my name is Nacho and welcome to my Github Profile! <br><br>   
 🧬 I have a degree in biology from University of Oviedo.<br>    🔭 I’m currently undertaking a fullstack development bootcamp with Factoria F5.<br>    🌱 I’m learning HTML, CSS, GitHub, Figma, Javascript, SASS...<br>    👯 I’m looking to collaborate on any kind of project to improve my coding skills.<br>    💬 Ask me about science.<br>    📫 How to reach me: www.linkedin.com/in/ignacio-rodríguez-martín-3b6344174<br>    😄 Pronouns: He/Him<br><br>
 
 
