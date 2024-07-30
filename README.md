@@ -1,4 +1,4 @@
-                        ![](https://camo.githubusercontent.com/3d76379809255553efde7abc812781227a3c4991b8c9fd47b4c3d29e9a2fbef5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f744b5962477a33774e434141414141692f63617473636166652d70656e6775696e2e676966)
+![](https://camo.githubusercontent.com/3d76379809255553efde7abc812781227a3c4991b8c9fd47b4c3d29e9a2fbef5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f744b5962477a33774e434141414141692f63617473636166652d70656e6775696e2e676966)
 
 Hi there, my name is Nacho 👋<br><br>    🧬 I have a degree in biology from University of Oviedo.<br>    🔭 I’m currently undertaking a fullstack development bootcamp with Factoria F5.<br>    🌱 I’m learning HTML, CSS, GitHub, Figma, Javascript, SASS...<br>    👯 I’m looking to collaborate on any kind of project to improve my coding skills.<br>    💬 Ask me about science.<br>    📫 How to reach me: www.linkedin.com/in/ignacio-rodríguez-martín-3b6344174<br>    😄 Pronouns: He/Him<br><br>
 
